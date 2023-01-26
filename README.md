@@ -23,6 +23,7 @@ print("{:.2f}".format(dist))
 
 
 ### OUTPUT:
+![image](https://user-images.githubusercontent.com/121215786/214862940-3098ea33-428c-4272-9ec3-84a4fa9746cc.png)
 
 
 ### RESULT:
