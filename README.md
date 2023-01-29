@@ -13,6 +13,8 @@ Substitute the values in the distance formula  ![formula](/formula.jpg)
 ### Step 5: 
 ### PROGRAM:
 ```python
+##Developed by:J.Nethraa
+  Reference no.:22006789
 import math
 l2=[10,6]
 l1=[4,2]
